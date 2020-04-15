@@ -1,8 +1,14 @@
+.gradle
+/build/
+build/
+out/
 
-*.class
-
-*.xml
-
-*.kotlin_module
-
+### IntelliJ IDEA ###
+.idea
+*.iws
 *.iml
+*.ipr
+*.kotlin_module
+*.xml
+*.class
+/out/
